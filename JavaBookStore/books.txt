@@ -1,0 +1,45 @@
+5367986
+The mine
+Kamen Konstantinov
+Egmont Publishing
+156
+20.07.2020
+pdf
+Adventure
+250
+1234567
+The Book
+Somebody famous
+Newtimes Publishers
+256
+25.06.2012
+pdf
+Fantasy
+10
+5367984
+The asd
+Kamen Konstantinov
+Egmont Publishing
+156
+20.07.2020
+pdf
+Adventure
+40
+1451241
+Howling roar
+Somebody not very famous
+Denrod Publishing
+580
+10.05.2018
+pdf
+Crime
+30
+2135124
+Sunnlight
+Somebody smart
+Simba Publishing
+570
+10.05.2018
+pdf
+Romance
+50
